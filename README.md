@@ -1,3 +1,3 @@
 # Mob Tycoon
 
-![Game Screen](/readme/game.jpg?raw=true "Game Screen")
+![Game Screen](/rm-assets/game.jpg?raw=true "Game Screen")
