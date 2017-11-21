@@ -1,10 +1,9 @@
 # Mob Tycoon
 
-This is a top-down 2D shooter game, utilizing Java Swing for graphics.
-
+This is a top-down 2D shooter game, utilizing Java Swing for graphics.  
 Features include arrow keys/WASD controls, real-time combat, weapon upgrades, and more.
 
-Title Screen: </br>
+Title Screen:  
 <img src="/title.gif" alt="Title Screen" width="500">
 
 In-game Screen:
